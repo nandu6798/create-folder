@@ -1,5 +1,5 @@
 #!/bin/bash
-for n in `seq 1 10`
+for n in {1..10}
 do
-  mkdir -v folder-$n
+  mkdir folder-$n
 done
