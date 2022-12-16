@@ -1,5 +1,3 @@
-#!/bin/bash
-for i in {1..10}
-do
-  mkdir folder-$n
-done
+#!/bin/sh
+mkdir testfolder1
+echo"file created"
